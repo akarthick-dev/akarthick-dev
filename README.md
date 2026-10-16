@@ -1,159 +1,170 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="A. Karthick - Profile Banner" />
+  <img src="./assets/header.svg" width="100%" alt="A. Karthick - Systems & Backend Engineer" />
 </div>
 
-<div align="center">
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there%2C+I'm+Karthick+%F0%9F%91%8B;Python+Developer+%26+Backend+Engineer+%E2%9A%A1;Building+Autonomous+Agents+with+FastMCP+%F0%9F%A4%96;Crafting+Voice+AI+%26+RAG+Pipelines+%F0%9F%8E%99%EF%B8%8F;Arch+Linux+Power+User+%7C+Hyprland+Ricist+%E2%9D%84%EF%B8%8F" alt="Typing SVG" />
+<p align="center">
+  <a href="https://karthicka.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-karthicka.me-0969da?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-
-  <p align="center">
-    <b>📍 Chennai, India &nbsp;•&nbsp; 🎓 B.Sc. Computer Science (2023–2026) &nbsp;•&nbsp; 🚀 Open Source & AI Builder</b>
-  </p>
-
-  <!-- Connect Socials -->
-  <p align="center">
-    <a href="https://karthicka.me" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-karthicka.me-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/karthick-seven" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-karthick--seven-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:contact@karthicka.me">
-      <img src="https://img.shields.io/badge/Email-contact%40karthicka.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/akarthick-dev">
-      <img src="https://img.shields.io/badge/GitHub-akarthick--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
-</div>
+  <a href="https://linkedin.com/in/karthick-seven" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-karthick--seven-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contact@karthicka.me">
+    <img src="https://img.shields.io/badge/Email-contact%40karthicka.me-d9381e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/akarthick-dev">
+    <img src="https://img.shields.io/badge/GitHub-akarthick--dev-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-### 🖥️ `karthick@archlinux:~$ neofetch --dev`
+### 👨‍💻 Professional Overview
 
-```text
-       /\         karthick@archlinux
-      /  \        ------------------
-     /\   \       OS: Arch Linux x86_64 (btw I use Arch)
-    /      \      Host: Chennai, India
-   /   ,,   \     Uptime: 24/7 Coding & Innovating
-  /   |  |  -\    Shell: zsh / bash • WM: Hyprland (Wayland)
- /_-''    ''-_\   Role: Backend & Generative AI Systems Engineer
-                  Stack: Python • FastAPI • FastMCP • LangChain
-                  AI: ChromaDB RAG • Whisper VAD • ElevenLabs TTS
-                  Database: MySQL • ChromaDB Vector DB
-                  Awards: 🥇 1st Place - AI Agent Automation Challenge
-                  Status: 🔨 Crafting autonomous tools & voice systems
-```
+Software engineer specializing in **Backend Systems**, **Autonomous Agent Architectures (FastMCP)**, and **Production Retrieval-Augmented Generation (RAG)** pipelines. Experienced in engineering low-latency RESTful microservices with **FastAPI**, orchestrating agentic tool-use protocols, and deploying speech/audio AI pipelines.
+
+- 🔭 **Current Focus:** Building production-grade autonomous agent tooling with FastMCP & low-latency voice AI backends.
+- ⚙️ **Core Stack:** Python (Asyncio, Pydantic, FastAPI), FastMCP, LangChain, ChromaDB, MySQL, Linux.
+- 🏆 **Achievement:** **1st Place Winner** — *AI Agent Automation Challenge* for architecting multi-step autonomous workflows.
+- 🎓 **Education:** B.Sc. in Computer Science (2023–2026), Agurchand Manmull Jain College, Chennai, India.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **🧠 Generative AI & Agents** | ![FastMCP](https://img.shields.io/badge/FastMCP-6366F1?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FC6D26?style=flat-square&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper_STT-25D366?style=flat-square&logo=openai&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs_TTS-FF7F00?style=flat-square&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
-| **⚡ Backend & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **🐧 Systems & DevOps** | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **🎨 Web & Interface** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-
-</div>
-
----
-
-### 🚀 Featured Innovations & Projects
+### 🛠️ Technical Competencies
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Sana / FastMCP Terminal Agent</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastMCP-6366F1?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-      </p>
-      <p>Autonomous terminal AI assistant using <b>Model Context Protocol (FastMCP)</b> for deep system interaction, interactive tool confirmation flags, shell command orchestration, and file safety safeguards.</p>
-      <p align="center"><a href="https://github.com/akarthick-dev/sanacode"><b>Explore Repository →</b></a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 Production RAG Service</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/ChromaDB-FC6D26?style=flat-square&logoColor=white" />
-      </p>
-      <p>High-speed document ingestion & conversational QA pipeline. Features recursive character text splitting, semantic vector indexing, and validated Pydantic endpoints (<code>/upload</code>, <code>/ask</code>).</p>
-      <p align="center"><a href="https://github.com/akarthick-dev/Retrieval-Augmented-Generation"><b>Explore Repository →</b></a></p>
+    <td width="25%"><b>Generative AI & LLMOps</b></td>
+    <td>
+      <code>FastMCP</code> • <code>LangChain</code> • <code>ChromaDB (Vector DB)</code> • <code>RAG Pipelines</code> • <code>Ollama</code> • <code>faster-whisper (STT)</code> • <code>ElevenLabs (TTS)</code> • <code>n8n</code>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🎙️ Real-time Voice AI Engine</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/faster--whisper-25D366?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/ElevenLabs-FF7F00?style=flat-square&logoColor=white" />
-      </p>
-      <p>Low-latency conversational voice backend with Voice Activity Detection (VAD), streaming speech-to-text processing, natural dialogue turn retention, and lifelike ElevenLabs voice synthesis.</p>
-      <p align="center"><a href="https://karthicka.me"><b>Live Demo & System →</b></a></p>
+    <td width="25%"><b>Backend & Architecture</b></td>
+    <td>
+      <code>Python 3.11+</code> • <code>FastAPI</code> • <code>Pydantic</code> • <code>Asyncio</code> • <code>RESTful APIs</code> • <code>MySQL</code> • <code>Go (Golang)</code>
     </td>
-    <td width="50%">
-      <h3 align="center">⚡ Cloud LLM & Fallback Engine</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Multi--Model-6366F1?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/High%20Availability-00C853?style=flat-square&logoColor=white" />
-      </p>
-      <p>Resilient multi-provider inference engine designed with automatic fallback tiers, prompt harmonization, and dynamic token routing across local Ollama models and cloud APIs.</p>
-      <p align="center"><a href="https://github.com/akarthick-dev/cloud_llm"><b>Explore Repository →</b></a></p>
+  </tr>
+  <tr>
+    <td width="25%"><b>Systems & DevOps</b></td>
+    <td>
+      <code>Linux (Arch / Debian)</code> • <code>Bash / Shell Scripting</code> • <code>Git & GitHub Actions (CI/CD)</code> • <code>Docker</code> • <code>Systemd</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Frontend & Tooling</b></td>
+    <td>
+      <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Neovim / VS Code</code> • <code>Postman</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics & Real-Time Stats
+### 🚀 Selected Engineering Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="32%">Project &amp; Repository</th>
+      <th width="48%">Architecture &amp; Key Highlights</th>
+      <th width="20%">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b><a href="https://github.com/akarthick-dev/sanacode">FastMCP Terminal Agent</a></b><br/>
+        <sub>Autonomous CLI System Assistant</sub>
+      </td>
+      <td>
+        • Engineered an interactive terminal AI assistant powered by the <b>Model Context Protocol (FastMCP)</b>.<br/>
+        • Implemented sandboxed system tools for deep filesystem manipulation, text search, and shell execution.<br/>
+        • Built interactive confirmation safeguards, argument sanitization, and execution timeouts.
+      </td>
+      <td>
+        <code>Python</code><br/>
+        <code>FastMCP</code><br/>
+        <code>CLI</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/akarthick-dev/Retrieval-Augmented-Generation">Production RAG Service</a></b><br/>
+        <sub>Document Q&amp;A Retrieval Engine</sub>
+      </td>
+      <td>
+        • Designed a document ingestion and semantic search API using FastAPI, LangChain, and ChromaDB.<br/>
+        • Built recursive text chunking and cosine similarity retrieval for high-accuracy passage lookup.<br/>
+        • Exposed validated endpoints (<code>/upload</code>, <code>/ask</code>) with Pydantic schemas.
+      </td>
+      <td>
+        <code>FastAPI</code><br/>
+        <code>LangChain</code><br/>
+        <code>ChromaDB</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://karthicka.me">Conversational Voice Engine</a></b><br/>
+        <sub>Real-Time Audio Assistant Backend</sub>
+      </td>
+      <td>
+        • Architected a real-time conversational voice pipeline integrating faster-whisper and ElevenLabs API.<br/>
+        • Integrated Voice Activity Detection (VAD) for natural pause handling and turn-taking.<br/>
+        • Managed context buffers for multi-turn dialogue retention with sub-second response latency.
+      </td>
+      <td>
+        <code>FastAPI</code><br/>
+        <code>Whisper</code><br/>
+        <code>ElevenLabs</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/akarthick-dev/cloud_llm">Cloud LLM Fallback Engine</a></b><br/>
+        <sub>High-Availability Model Orchestrator</sub>
+      </td>
+      <td>
+        • Developed a multi-provider resilience engine featuring automated failover and prompt harmonization.<br/>
+        • Dynamic routing between local Ollama instances and external cloud providers for 99.9% uptime.<br/>
+        • Unified error handling, response normalizers, and token retry policies.
+      </td>
+      <td>
+        <code>Python</code><br/>
+        <code>LLM Ops</code><br/>
+        <code>Ollama</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📊 GitHub Activity & Real-Time Engineering Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=akarthick-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&rank_icon=github" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akarthick-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akarthick-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" height="175" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akarthick-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" alt="GitHub Streak" />
   <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarthick-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" height="165" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarthick-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="155" alt="Top Languages" />
 </div>
 
 ---
 
-### 🐍 Contribution Activity Graph
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akarthick-dev/akarthick-dev/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akarthick-dev/akarthick-dev/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/akarthick-dev/akarthick-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/akarthick-dev/akarthick-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 ---
 
-### 🏆 Milestones & Achievements
-
-- 🥇 **1st Place Winner** — *AI Agent Automation Challenge* (Inter-College Technical Symposium) for automated agentic workflow architecture with n8n & Python.
-- ⚡ **HackForge 2025** — National Level 24-Hour Hackathon finalist & rapid prototyping innovator.
-- 🛡️ **Cyber Security Certified (Grade A)** — IBM SkillsBuild & ICT Academy.
-- 🐧 **Arch Linux & Hyprland Rice** — Dotfiles customizer & Linux power user.
-
----
-
 <div align="center">
-  <sub>Built with ⚡ &amp; Passion by <a href="https://github.com/akarthick-dev">A. Karthick</a> &nbsp;•&nbsp; Powered by Open Source</sub>
+  <sub>© 2026 A. Karthick &nbsp;•&nbsp; Open-Source Contributor &amp; Systems Engineer &nbsp;•&nbsp; <a href="https://karthicka.me">karthicka.me</a></sub>
 </div>
