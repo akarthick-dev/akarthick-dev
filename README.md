@@ -1,4 +1,6 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,22&height=180&section=header&text=A.%20Karthick&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20%26%20Generative%20AI%20Systems&descFontSize=20&descAlignY=62&descAlign=50" width="100%"/></p>
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="A. Karthick - Profile Banner" />
+</div>
 
 <div align="center">
 
@@ -30,22 +32,21 @@
 
 ---
 
-### 🖥️ `karthick@archlinux:~$ neofetch --dev-edition`
+### 🖥️ `karthick@archlinux:~$ neofetch --dev`
 
 ```text
        /\         karthick@archlinux
       /  \        ------------------
      /\   \       OS: Arch Linux x86_64 (btw I use Arch)
-    /      \      Host: Chennai, Tamil Nadu, India
-   /   ,,   \     Uptime: 24/7 Coding & Experimenting
-  /   |  |  -\    Shell: zsh / bash
- /_-''    ''-_\   WM: Hyprland (Wayland)
-                  Role: Backend & Generative AI Systems Developer
-                  Primary Stack: Python • FastAPI • FastMCP • LangChain
-                  AI Pipelines: ChromaDB RAG • Whisper VAD • ElevenLabs TTS
-                  Database: MySQL • ChromaDB Vector Store
-                  Hackathons & Awards: 🥇 1st Place - AI Agent Automation Challenge
-                  Status: 🔨 Crafting autonomous tools, local agents & real-time voice systems
+    /      \      Host: Chennai, India
+   /   ,,   \     Uptime: 24/7 Coding & Innovating
+  /   |  |  -\    Shell: zsh / bash • WM: Hyprland (Wayland)
+ /_-''    ''-_\   Role: Backend & Generative AI Systems Engineer
+                  Stack: Python • FastAPI • FastMCP • LangChain
+                  AI: ChromaDB RAG • Whisper VAD • ElevenLabs TTS
+                  Database: MySQL • ChromaDB Vector DB
+                  Awards: 🥇 1st Place - AI Agent Automation Challenge
+                  Status: 🔨 Crafting autonomous tools & voice systems
 ```
 
 ---
@@ -153,6 +154,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,11,6&height=100&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <sub>Built with ⚡ &amp; Passion by <a href="https://github.com/akarthick-dev">A. Karthick</a> &nbsp;•&nbsp; Powered by Open Source</sub>
+</div>
