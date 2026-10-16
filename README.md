@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akarthick-dev/akarthick-dev/main/assets/header.svg?v=2" width="100%" alt="A. Karthick - Systems & Backend Engineer" />
-</div>
+<h1 align="center">A. Karthick</h1>
+
+<p align="center">
+  <b>Backend &amp; Generative AI Systems Engineer</b><br/>
+  <span>Chennai, India &nbsp;•&nbsp; <a href="https://karthicka.me">karthicka.me</a> &nbsp;•&nbsp; <a href="mailto:contact@karthicka.me">contact@karthicka.me</a></span>
+</p>
 
 <p align="center">
   <a href="https://karthicka.me" target="_blank">
@@ -19,13 +22,13 @@
 
 ---
 
-### 👨‍💻 Professional Overview
+### 👨‍💻 Executive Summary
 
 Software engineer specializing in **Backend Systems**, **Autonomous Agent Architectures (FastMCP)**, and **Production Retrieval-Augmented Generation (RAG)** pipelines. Experienced in engineering low-latency RESTful microservices with **FastAPI**, orchestrating agentic tool-use protocols, and deploying speech/audio AI pipelines.
 
 - 🔭 **Current Focus:** Building production-grade autonomous agent tooling with FastMCP & low-latency voice AI backends.
 - ⚙️ **Core Stack:** Python (Asyncio, Pydantic, FastAPI), FastMCP, LangChain, ChromaDB, MySQL, Linux.
-- 🏆 **Achievement:** **1st Place Winner** — *AI Agent Automation Challenge* for architecting multi-step autonomous workflows.
+- 🏆 **Track Record:** **1st Place Winner** — *AI Agent Automation Challenge* for architecting multi-step autonomous workflows.
 - 🎓 **Education:** B.Sc. in Computer Science (2023–2026), Agurchand Manmull Jain College, Chennai, India.
 
 ---
@@ -34,25 +37,25 @@ Software engineer specializing in **Backend Systems**, **Autonomous Agent Archit
 
 <table>
   <tr>
-    <td width="25%"><b>Generative AI & LLMOps</b></td>
+    <td width="26%"><b>Generative AI &amp; LLMOps</b></td>
     <td>
       <code>FastMCP</code> • <code>LangChain</code> • <code>ChromaDB (Vector DB)</code> • <code>RAG Pipelines</code> • <code>Ollama</code> • <code>faster-whisper (STT)</code> • <code>ElevenLabs (TTS)</code> • <code>n8n</code>
     </td>
   </tr>
   <tr>
-    <td width="25%"><b>Backend & Architecture</b></td>
+    <td width="26%"><b>Backend &amp; Architecture</b></td>
     <td>
       <code>Python 3.11+</code> • <code>FastAPI</code> • <code>Pydantic</code> • <code>Asyncio</code> • <code>RESTful APIs</code> • <code>MySQL</code> • <code>Go (Golang)</code>
     </td>
   </tr>
   <tr>
-    <td width="25%"><b>Systems & DevOps</b></td>
+    <td width="26%"><b>Systems &amp; DevOps</b></td>
     <td>
-      <code>Linux (Arch / Debian)</code> • <code>Bash / Shell Scripting</code> • <code>Git & GitHub Actions (CI/CD)</code> • <code>Docker</code> • <code>Systemd</code>
+      <code>Linux (Arch / Debian)</code> • <code>Bash / Shell Scripting</code> • <code>Git &amp; GitHub Actions (CI/CD)</code> • <code>Docker</code> • <code>Systemd</code>
     </td>
   </tr>
   <tr>
-    <td width="25%"><b>Frontend & Tooling</b></td>
+    <td width="26%"><b>Frontend &amp; Tooling</b></td>
     <td>
       <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Neovim / VS Code</code> • <code>Postman</code>
     </td>
@@ -141,7 +144,7 @@ Software engineer specializing in **Backend Systems**, **Autonomous Agent Archit
 
 ---
 
-### 📊 GitHub Activity & Real-Time Engineering Stats
+### 📊 GitHub Activity &amp; Real-Time Engineering Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akarthick-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub Stats" />
@@ -166,5 +169,5 @@ Software engineer specializing in **Backend Systems**, **Autonomous Agent Archit
 ---
 
 <div align="center">
-  <sub>© 2026 A. Karthick &nbsp;•&nbsp; Open-Source Contributor &amp; Systems Engineer &nbsp;•&nbsp; <a href="https://karthicka.me">karthicka.me</a></sub>
+  <sub>© 2026 A. Karthick &nbsp;•&nbsp; Systems Engineer &amp; Open-Source Contributor &nbsp;•&nbsp; <a href="https://karthicka.me">karthicka.me</a></sub>
 </div>
