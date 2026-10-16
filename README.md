@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akarthick-dev/akarthick-dev/main/assets/header.svg" width="100%" alt="A. Karthick - Systems & Backend Engineer" />
+  <img src="https://raw.githubusercontent.com/akarthick-dev/akarthick-dev/main/assets/header.svg?v=2" width="100%" alt="A. Karthick - Systems & Backend Engineer" />
 </div>
 
 <p align="center">
